@@ -1,9 +1,9 @@
 [[ROOT]]
 arch = "x86_64"
-git-tree-sha1 = "93cd081cd366efe98762b8571d5b59357aec204f"
+git-tree-sha1 = "68a6f74f11fe4b6ab7bed579a2037e7adcfcec74"
 libc = "glibc"
 os = "linux"
 
     [[ROOT.download]]
-    sha256 = "e7daa5c1aeba25222c130feb0418bf561b6e4a704094332738b1e195e6e36711"
+    sha256 = "081a84aba89ed20565eca46531d48308e647bb09f2b0c650464e2bae340c4ce9"
     url = "https://github.com/JuliaBinaryWrappers/ROOT_jll.jl/releases/download/ROOT-v6.32.8+0/ROOT.v6.32.8.x86_64-linux-gnu.tar.gz"
